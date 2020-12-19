@@ -8,5 +8,4 @@ public class SeleniumTest {
 		
 		System.out.println("browserAutomation");
 	}
-
 }
